@@ -1,0 +1,4 @@
+source https://www.nuget.org/api/v2
+framework: >= net45
+nuget canopy 1.3.0
+nuget expecto 5.0-rc1
